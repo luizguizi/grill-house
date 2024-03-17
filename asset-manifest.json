@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/grill-house/static/css/main.f576b5a8.css",
+    "main.js": "/grill-house/static/js/main.5a4ad0b1.js",
+    "static/js/787.3bc3a129.chunk.js": "/grill-house/static/js/787.3bc3a129.chunk.js",
+    "static/media/backgorund.png": "/grill-house/static/media/backgorund.24f5e9ec963bf8574e2c.png",
+    "static/media/slide3.png": "/grill-house/static/media/slide3.7ba5d8f60928f8049b7c.png",
+    "static/media/slide2.png": "/grill-house/static/media/slide2.34f716fac2231e8270d1.png",
+    "static/media/slide1.png": "/grill-house/static/media/slide1.d2fbde0587f8b58f6abb.png",
+    "static/media/about.png": "/grill-house/static/media/about.690e7f7403653113efe2.png",
+    "static/media/method.png": "/grill-house/static/media/method.14f1540d61bbfde25889.png",
+    "static/media/special.png": "/grill-house/static/media/special.6271d781de3b2f844463.png",
+    "static/media/food_1.png": "/grill-house/static/media/food_1.981473cf17c89ba1e707.png",
+    "static/media/food_3.png": "/grill-house/static/media/food_3.03035c332ada293e1fa2.png",
+    "static/media/food_2.png": "/grill-house/static/media/food_2.b59cc703b56157eb5188.png",
+    "index.html": "/grill-house/index.html",
+    "main.f576b5a8.css.map": "/grill-house/static/css/main.f576b5a8.css.map",
+    "main.5a4ad0b1.js.map": "/grill-house/static/js/main.5a4ad0b1.js.map",
+    "787.3bc3a129.chunk.js.map": "/grill-house/static/js/787.3bc3a129.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f576b5a8.css",
+    "static/js/main.5a4ad0b1.js"
+  ]
+}
