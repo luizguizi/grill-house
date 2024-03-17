@@ -1,0 +1,8 @@
+.slide_item {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+.slidercontent {
+    margin-bottom: -5px;
+}

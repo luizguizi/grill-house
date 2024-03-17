@@ -1,0 +1,47 @@
+.background {
+    width: 100%;
+    height: 650px;
+    background-image: url(../../imgs/backgorund.png);
+    background-repeat: none;
+    background-size: cover;
+}
+.section1{
+padding-top: 0.5em;
+display: flex;
+flex-direction: row;
+margin: 0 auto;
+}
+
+.menu  {
+    text-align: center;
+    font-size: 18px;
+    border: 5px solid #e1b838;
+    width: 30%;
+    margin-bottom: 3em;
+    padding-bottom: 1em;
+    margin: 0 160px;
+    height: 200px;
+    
+    
+}
+.menu h2 {
+    margin: 0;
+    margin-bottom: .5em;
+    background-color: #e1b838 ;
+    color: black;
+    font-weight:900;
+    padding: 10px;
+    font-size: 35px;
+}
+.menu span{
+    padding: 10px;
+    font-size: 18px;
+}
+
+.method_img {
+    width: 662px;
+    height: 712px;
+    background-image: url(../../imgs/method.png);
+    background-size: cover;
+    background-repeat: none;
+}
